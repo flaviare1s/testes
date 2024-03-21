@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1711063151331" clover="3.2.0">
+  <project timestamp="1711063151331" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="15" coveredconditionals="15" methods="2" coveredmethods="2" elements="34" coveredelements="34" complexity="0" loc="17" ncloc="17" packages="1" files="2" classes="2"/>
+    <file name="average.js" path="C:\Users\flávia9133\Documents\Flavia\testes\unit-test\average.js">
+      <metrics statements="9" coveredstatements="9" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="5" type="cond" truecount="5" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+    </file>
+    <file name="prime.js" path="C:\Users\flávia9133\Documents\Flavia\testes\unit-test\prime.js">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
